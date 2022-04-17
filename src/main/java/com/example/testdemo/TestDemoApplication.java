@@ -10,4 +10,6 @@ public class TestDemoApplication {
         SpringApplication.run(TestDemoApplication.class, args);
     }
 
+    private static final String TEST = "";
+
 }
